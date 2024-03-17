@@ -35,3 +35,30 @@ console.log(boolean_isactive);
 let num = 98
 let string_num = String(num)
 console.log(string_num);
+
+//OPERATIONS
+let val = 78
+let negval = -val      //negative value
+console.log(negval);   
+
+//normal arithmatics
+// console.log(7+7);
+// console.log(8-6);
+// console.log(3*1);
+// console.log(8/2);
+// console.log(4**9);
+// console.log(2%4);
+
+let str = "Hello!!"
+let str1 = "Welcome"
+let str2 = str+str1    //concatination string
+
+
+console.log("3" + 2);      //will come out as 5
+console.log(3 + "2");      //will come out as 5
+console.log("3" + "2");    //will come out as 32
+console.log("3" + 2 + 1);  //will come out as 321
+
+let count = 50
+count++              //increment by 1
+console.log(count);  
