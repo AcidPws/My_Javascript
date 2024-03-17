@@ -10,3 +10,4 @@ let project                //undefined
 let idk = Symbol()         //unique
 
 console.log(typeof idk);   //prints the type of a variable
+console.log(typeof(idk));  //another type to use typeof
