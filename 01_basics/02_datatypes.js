@@ -11,3 +11,13 @@ let idk = Symbol()         //unique
 
 console.log(typeof idk);   //prints the type of a variable
 console.log(typeof(idk));  //another type to use typeof
+
+//primitive type data type
+/*
+7 : String,number,boolean,null,undefines,symbol,BigInt
+*/
+
+//non-primitive or reference type
+/*
+Array,objects,functions
+*/
